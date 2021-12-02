@@ -11,7 +11,7 @@ De ce fait on prend les devants, comme beaucoup de travail va encore être effec
 -----------------
 <h1 align="center">Un screen de preuve:</h1>
 <div align="center">
-<img alt="Un screen de preuve" src="https://discord.c99.nl/widget/theme-2/861353252641570883.png" />
+<img alt="Un screen de preuve" src="https://prnt.sc/21fhdz7 " />
 </div>
 -----------------
 <h1 align="center">Ca a pas été encore leak du coup c'est en exclu !
